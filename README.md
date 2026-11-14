@@ -42,4 +42,4 @@ pip install pytest && pytest -q
 
 ## Author
 
-**Sameer Hussain**, [D2Logix](https://d2logix.com). AI-assisted lead generation for education and healthcare.
+**Sameer Hussain** · [LinkedIn](https://www.linkedin.com/in/sameer-hussain-87368a164) · [D2Logix](https://d2logix.com). AI-assisted lead generation for education and healthcare.
